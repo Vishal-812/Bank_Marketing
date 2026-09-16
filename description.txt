@@ -1,0 +1,10 @@
+The dataset is about marketing campaign based on phone call. Often, more than one contact to the same client required.
+We have check whether client would subscribe to Bank term deposit(lock up a lump sum of money for a fixed period at a guaranteed interest rate)
+This is a classification problem, where we have to predict whether client would subscribe to bank term deposite.
+
+continuous features : 'age', 'balance', 'duration'(in sec), 'previous', 'campaign', 'pdays'
+categorical features : 'marital', 'education', 'contact', 'poutcome'
+binary categorical features : 'default', 'housing', 'loan', 'y'
+temporal features : 'month', 'day'
+
+

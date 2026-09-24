@@ -11,7 +11,7 @@ Precision-Recall curves were used for decision-threshold selection and multiple 
 The objective is to identify customers who are likely to subscribe to a term deposit while maintaining a minimum precision of ~40%.
 This prject considered **low-cost marketing case** where contacting non-subscribers is relatively inexpensive so low precision is acceptable. Therefore, we focus on maximizing ** Recall ** while maintaining the minimum ** Precision** of **~40%**.
 
-> **Objective: **maximize Recall subject to Precision ≥ 40%.**
+> Objective: **maximize Recall subject to Precision ≥ 40%.**
 
 The project evaluates multiple Machine Learning models and imbalance-handling techniques to determine which approach provides reliable minority-class detection.
 

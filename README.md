@@ -216,13 +216,15 @@ To obtain more reliable estimate of model performance:
 - Out-of-Fold predictions(OOF)
 
 ## Final Results
-The final model achieved:
+The final model achieved
 
-** Recall: 0.8752 **
-** Precison: 0.6113 **
-** Average Precision (AP): 0.5494 ** 
+**Recall: 0.8752**
 
-** Confusion Matrix **
+**Precison: 0.6113**
+
+**Average Precision (AP): 0.5494** 
+
+**Confusion Matrix**
 <img width="499" height="351" alt="image" src="https://github.com/user-attachments/assets/b284a18a-f4ab-4be6-b988-381df8eabbad" />
 
 *The results has shown that XGBoost model generalizes reasonalbly well to unseen data, the model achieved a recall of 87.52% and precision of 61.13% with an average precision of 0.5494. Also the confusion matrix shows model successfully identified 456 out of 521 actual subscribers while missing only 65 actual susbcribers.*

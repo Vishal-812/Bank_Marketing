@@ -147,7 +147,6 @@ The final model achieved:
 
 Clone the repository:
 
-git clone https://github.com/username/customer-churn-prediction.git
 cd customer-churn-prediction
 
 Create a virtual environment:

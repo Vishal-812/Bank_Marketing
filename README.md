@@ -89,6 +89,7 @@ The model were evaluated using metrics:
 Since the dataset is imbalanced Recall, Average Precison score were given greater importance .
 
 **Model Evaluation**
+
 Using SMOTENC:
 | Model | Threshold | Precision | Recall | Average Precision (AP) |
 |---|---:|---:|---:|---:|
